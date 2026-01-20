@@ -2,3 +2,5 @@ flask
 werkzeug
 markupsafe
 pillow
+flask-cors
+gunicorn
